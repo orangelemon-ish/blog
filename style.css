@@ -110,7 +110,7 @@ a:hover {
 .navbar a:hover {
   text-decoration: underline;
   background: transparent;
-  text-decoration-color: yellow;
+  text-decoration-color: #3DDABA;
 }
 
 
