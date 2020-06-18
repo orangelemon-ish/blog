@@ -108,9 +108,9 @@ a:hover {
 }
 
 .navbar a:hover {
-  text-decoration-color: #3DDABA;
   text-decoration: underline;
   background: transparent;
+  text-decoration-color: #3DDABA;
 }
 
 
