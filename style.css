@@ -74,7 +74,7 @@ h4 {
 }
 
 .post p {
-	font-family: Josefin Sans Light;
+	font-family: Josefin Sans;
 	font-size: 14px;
 	color: rgb(85, 84, 84);
 	margin: 1px;
@@ -87,7 +87,7 @@ p {
 	padding: 20px;
 	margin: 5% 12%;
 	border-radius: 10px;
-	font-family: Josefin Sans;
+	font-family: Josefin Sans Light;
 	font-size: 14px;
 	line-height: 1.3;
 }
