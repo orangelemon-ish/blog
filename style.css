@@ -51,13 +51,13 @@ img.backimg {
 }
 
 h1 {
-	font-family: Philosopher;
+	font-family: Abel;
 	font-size: 50px;
 	text-align: center;
 }
 
 h2 {
-	font-family: Abel;
+	font-family: Philospher;
 }
 
 .post {
@@ -77,7 +77,7 @@ h3 {
 }
 
 h4 {
-	font-family: Abel;
+	font-family: Philospher;
 	font-size: 15px;
 	color: grey;
 	font-style: italic;
