@@ -76,7 +76,6 @@ h4 {
 .post p {
 	font-family: Josefin Sans;
 	font-size: 14px;
-	font-weight: 300;
 	color: rgb(85, 84, 84);
 	margin: 1px;
 	padding: 1px;
@@ -89,7 +88,6 @@ p {
 	border-radius: 10px;
 	font-family: Josefin Sans;
 	font-size: 14px;
-	font-weight:300;
 }
 
 :root {
@@ -129,7 +127,7 @@ a:hover {
   color:black;
   text-align: center;
   padding: 14px 16px;
-  font-family: Open Sans;
+  font-family: Josefin Sans Light;
   text-decoration: none;
 }
 
