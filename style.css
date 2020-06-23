@@ -80,13 +80,26 @@ p {
 	font-size: 14px;
 }
 
+:root {
+  --mainColor:#3DDABA;
+}
+
 a {
-	color: black;
-	text-decoration-color: #3DDABA;
+  background:
+     linear-gradient(
+       to bottom, var(--mainColor) 0%,
+       var(--mainColor) 100%
+     );
+    background-position: 0 100%;
+    background-repeat: repeat-x;
+    background-size: 4px 2px;
+  color: #000;
+  text-decoration: none;
+  transition: background-size .2s;
 }
 
 a:hover {
-	background: #3DDABA;
+  background-size: 4px 50px;
 }
 
 /*navbar*/
