@@ -64,8 +64,9 @@ h4 {
 }
 
 .post p {
-	font-family: Open Sans;
+	font-family: Josefin Sans;
 	font-size: 14px;
+	font-weight: 300;
 	color: rgb(85, 84, 84);
 	margin: 1px;
 	padding: 1px;
@@ -76,8 +77,9 @@ p {
 	padding: 20px;
 	margin: 5% 12%;
 	border-radius: 10px;
-	font-family: Open Sans;
+	font-family: Josefin Sans;
 	font-size: 14px;
+	font-weight:300;
 }
 
 :root {
@@ -106,7 +108,7 @@ a:hover {
 .navbar {
   overflow: hidden;
   background-color:transparent;
-  border-bottom: 1px solid #3DDABA;
+  border-bottom: 2px solid #3DDABA;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 	text-decoration: none;
 }
@@ -124,17 +126,6 @@ a:hover {
 .navbar a:hover {
   background: transparent;
   text-decoration-color: #3DDABA;
-  background:
-     linear-gradient(
-       to bottom, var(--mainColor) 0%,
-       var(--mainColor) 100%
-     );
-    background-position: 0 100%;
-    background-repeat: repeat-x;
-    background-size: 4px 2px;
-  color: #000;
-  text-decoration: none;
-  transition: background-size .2s;
 }
 
 h5 {
