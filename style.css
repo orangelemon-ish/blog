@@ -1,6 +1,11 @@
 @font-face {
+	font-family: Josefin Sans Light;
+	src: url("JosefinSans-Light.ttf") format("ttf");
+}
+
+@font-face {
 	font-family: Josefin Sans;
-	src: url("Josefin_Sans.zip") format("ttf");
+	src: url("JosefinSans-Regular.ttf") format("ttf");
 }
 
 body {
