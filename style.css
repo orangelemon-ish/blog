@@ -8,6 +8,16 @@
 	src: url("./fonts/JosefinSans-Regular.ttf") format("truetype");
 }
 
+@font-face {
+	font-family: Abel;
+	src: url("./fonts/Abel-Regular.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: Philosopher;
+	src: url("./fonts/Philosopher-Regular.ttf") format("truetype");
+}
+
 body {
 	background: rgb(234, 255, 239);
 }
@@ -41,7 +51,7 @@ img.backimg {
 }
 
 h1 {
-	font-family: Abel;
+	font-family: Philosopher;
 	font-size: 50px;
 	text-align: center;
 }
