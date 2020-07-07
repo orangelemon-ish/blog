@@ -141,12 +141,13 @@ ul.navbar {
 	text-align:center;
 	position: fixed;
 	width: 100%;
-	background: #F1FEECD9;
+	background: #F1FEECFA;
 	top: 0;
 	z-index: 100;
 	box-shadow: 2px 2px 8px rgba(77, 78, 78, 0.781);
 	float:right;
 	left: 50%;
+	filter: blur(8px);
 }
 
 .navbar li {
