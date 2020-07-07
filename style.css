@@ -120,7 +120,7 @@ p {
 a {
   background:
      linear-gradient(
-       background: linear-gradient(170deg, rgba(131,58,180,1) 0%, rgba(131,58,180,1) 17%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 76%, rgba(252,176,69,1) 100%
+       170deg, rgba(131,58,180,1) 0%, rgba(131,58,180,1) 17%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 76%, rgba(252,176,69,1) 100%
      );
     background-position: 0 100%;
     background-repeat: no-repeat;
@@ -146,7 +146,7 @@ ul.navbar {
  	margin: 0;
 	padding: 0;
 	border: 15px solid transparent;
-  	border-image-source: background: linear-gradient(170deg, rgba(131,58,180,1) 0%, rgba(131,58,180,1) 17%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 76%, rgba(252,176,69,1) 100%);
+  	border-image-source: linear-gradient(170deg, rgba(131,58,180,1) 0%, rgba(131,58,180,1) 17%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 76%, rgba(252,176,69,1) 100%);
   	border-image-slice: 10;
 	border-width: 0;
 	border-bottom: 2px;
@@ -180,7 +180,7 @@ ul.navbar {
 .navbar a:hover {
 	transition: 0.2s;
   font-weight: bold;
-  background: background: linear-gradient(170deg, rgba(131,58,180,1) 0%, rgba(131,58,180,1) 17%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 76%, rgba(252,176,69,1) 100%);
+  background: linear-gradient(170deg, rgba(131,58,180,1) 0%, rgba(131,58,180,1) 17%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 76%, rgba(252,176,69,1) 100%);
 }
 
 
