@@ -136,6 +136,7 @@ a:hover {
 ul.navbar {
 	list-style-type: none;
  	margin: 0;
+	padding: 0;
 	border: 15px solid transparent;
   	border-image-source: linear-gradient(135deg, rgba(61,218,186,1) 0%, rgba(230,231,156,1) 100%);
   	border-image-slice: 10;
@@ -160,7 +161,6 @@ ul.navbar {
   font-size: 16px;
   color:black;
   text-align: center;
-  padding: 14px 16px;
   font-family: Josefin Sans Light;
   text-decoration: none;	
 	display: inline-block;
