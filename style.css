@@ -19,7 +19,7 @@
 }
 
 body {
-	background: linear-gradient(135deg, rgba(229,255,250,1) 0%, rgba(255,255,241,1) 100%);
+	background: #F3EBEB;
 	margin:0;
 	padding:0;
 }
@@ -54,7 +54,7 @@ img.backimg {
 
 h1 {
 	font-family: Abel;
-	font-size: 15em;
+	font-size: 7em;
 	text-align: center;
 }
 
@@ -153,7 +153,7 @@ ul.navbar {
   	border-style: solid;
 	position: fixed;
 	width: 100%;
-	background: #F1FEECF7;
+	background: #F3EBEBF7;
 	top: 0;
 	z-index: 100;
 	box-shadow: 2px 2px 8px rgba(77, 78, 78, 0.781);
