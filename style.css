@@ -128,6 +128,11 @@ a:hover {
 }
 
 /*navbar*/
+
+.navbar {
+	text-align: center;
+}
+
 ul.navbar {
 	list-style-type: none;
  	margin: 0 auto;
@@ -146,12 +151,11 @@ ul.navbar {
 	z-index: 100;
 	box-shadow: 2px 2px 8px rgba(77, 78, 78, 0.781);
 	float:right;
-	left: 50%;
-	filter: blur(8px);
+	filter: blur(1px);
 }
 
 .navbar li {
-	display:inline-block;
+	display:inline;
 }
 
 .navbar a {
