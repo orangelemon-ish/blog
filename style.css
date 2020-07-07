@@ -135,7 +135,7 @@ a:hover {
 
 ul.navbar {
 	list-style-type: none;
- 	margin: 0 auto;
+ 	margin: 0;
 	border: 15px solid transparent;
   	border-image-source: linear-gradient(135deg, rgba(61,218,186,1) 0%, rgba(230,231,156,1) 100%);
   	border-image-slice: 10;
@@ -143,15 +143,13 @@ ul.navbar {
 	border-bottom: 2px;
 	border-image-repeat: stretch;
   	border-style: solid;
-	text-align:center;
 	position: fixed;
 	width: 100%;
-	background: #F1FEECFA;
+	background: #F1FEECF7;
 	top: 0;
 	z-index: 100;
 	box-shadow: 2px 2px 8px rgba(77, 78, 78, 0.781);
 	float:right;
-	filter: blur(1px);
 }
 
 .navbar li {
