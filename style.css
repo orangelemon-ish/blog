@@ -74,6 +74,7 @@ h2 {
 
 .post:hover {
 	box-shadow: 2px 2px 3px rgba(77, 78, 78, 0.781);
+	transition: .2s;
 }
 
 h3 {
@@ -130,6 +131,7 @@ a {
 
 a:hover {
   background-size: auto;
+	transition: .2s;
 }
 
 /*navbar*/
@@ -175,7 +177,7 @@ ul.navbar {
 }
 
 .navbar a:hover {
-	transition: 0.1s;
+	transition: 0.2s;
   font-weight: bold;
   background: linear-gradient(135deg, rgba(61,218,186,1) 0%, rgba(230,231,156,1) 100%);
 }
