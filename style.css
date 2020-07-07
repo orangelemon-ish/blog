@@ -166,6 +166,7 @@ ul.navbar {
 	display: inline-block;
 	background: none;
 	height: 100%;
+	padding: 14px 20px;
 }
 
 .navbar a:hover {
