@@ -116,8 +116,8 @@ a {
        135deg, rgba(61,218,186,1) 0%, rgba(230,231,156,1) 100%
      );
     background-position: 0 100%;
-    background-repeat: stretch;
-    background-size: 4px 2px;
+    background-repeat: no-repeat;
+    background-size: auto 2px;
   color: #000;
   text-decoration: none;
   transition: background-size .2s;
@@ -141,11 +141,10 @@ ul.navbar {
 	text-align:center;
 	position: fixed;
 	width: 100%;
-	background: #EBEBEB;
+	background: transparent;
 	top: 0;
 	z-index: 100;
 	box-shadow: 2px 2px 8px rgba(77, 78, 78, 0.781);
-	float: right;
 }
 
 .navbar li {
